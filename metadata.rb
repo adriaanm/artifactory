@@ -9,7 +9,6 @@ version          "0.1.1"
 depends          "java"
 depends          "runit"
 depends          "ark"
-depends          "apache2"
 
 supports "ubuntu"
 supports "debian"

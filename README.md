@@ -25,7 +25,6 @@ The default username/password for the server is admin/password
 
 # Recipes
 * artifactory::default - installs Artifactory
-* artifactory::apache-proxy - setup Apache reverse proxy in front of Artifactory
 
 # Author
 
